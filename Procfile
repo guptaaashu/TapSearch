@@ -1,1 +1,1 @@
-web: gunicorn friendsadda.wsgi
+web: gunicorn hay.wsgi --log-file -
