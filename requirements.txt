@@ -27,7 +27,7 @@ tensorflow-gpu==1.9.0
 termcolor==1.1.0
 Theano==1.0.2
 urllib3==1.25.7
-Werkzeug==0.14.1
+Werkzeug==0.15.5
 whitenoise==3.3.1
 psycopg2==2.7.2
 psycopg2-binary
